@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoleonardodev&label=Profile%20views&color=0e75b6&style=flat" alt="hugoleonardodev" /> </p>
 
-- 🔭 I’m currently working on [my personal web portfolio](https://hugoleonardodev.github.io/)
+- 🔭 I’m currently studying Software Development at [Trybe](https://www.betrybe.com/)
 
 - 👨‍💻 All of my projects are available at [https://hugoleonardodev.github.io/](https://hugoleonardodev.github.io/)
 
