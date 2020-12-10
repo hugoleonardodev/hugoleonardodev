@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hugoleonardo.dev@gmail.com**
 
-<h3 style="color: purple" align="left">Connect with me:</h3>
+<h3 style="color: #4E0550" align="left">Connect with me:</h3>
 <p style="color: purple" align="left">
 <a href="https://codepen.io/hugoleonardodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hugoleonardodev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hugo-leonardo-matosinhos-de-souza-02b9461b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hugo-leonardo-matosinhos-de-souza-02b9461b6" height="30" width="40" /></a>
