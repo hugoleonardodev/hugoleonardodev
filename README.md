@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Leonardo</h1>
-<img align="center" src=
+<img align="center" src='/octocat.png'>
 <h3 align="center">A passionate frontend developer from Belo Horizonte - Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoleonardodev&label=Profile%20views&color=0e75b6&style=flat" alt="hugoleonardodev" /> </p>
