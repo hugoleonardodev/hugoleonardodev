@@ -13,7 +13,7 @@
 <h3 style="color: #4E0550" align="left">Connect with me:</h3>
 <p style="color: purple" align="left">
 <a href="https://codepen.io/hugoleonardodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hugoleonardodev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hugo-leonardo-matosinhos-de-souza-02b9461b6" target="blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16"></svg></a>
+<a href="https://linkedin.com/in/hugo-leonardo-matosinhos-de-souza-02b9461b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hugo-leonardo-matosinhos-de-souza-02b9461b6" height="30" width="40" /></a>
 <a href="https://medium.com/@hugoleonardo-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hugoleonardo-dev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hugoleonardo_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hugoleonardo_dev" height="30" width="40" /></a>
 </p>
