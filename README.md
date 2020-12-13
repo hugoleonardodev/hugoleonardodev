@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Leonardo</h1>
-<img src="/octocat.png" align="right" width="40%" height="40%">
+<img src="/octocat.png" align="right" width="40%" height="60%">
 <h3 align="center">A passionate frontend developer from Belo Horizonte - Brazil</h3>
 
 - 🔭 I’m currently studying at [Trybe](https://betrybe.com/)
@@ -22,8 +22,8 @@
 
 - ⚡ Fun fact **Dark theme is beautiful.**
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://codepen.io/hugoleonardodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hugoleonardodev" height="30" width="40" /></a>
 <a href="https://dev.to/hugoleonardodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hugoleonardodev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hugo-leonardo-matosinhos-de-souza-02b9461b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hugo-leonardo-matosinhos-de-souza-02b9461b6" height="30" width="40" /></a>
