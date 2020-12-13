@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact **Dark theme is beautiful.**
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hugoleonardodev" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hugoleonardodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hugoleonardodev" height="30" width="40" /></a>
