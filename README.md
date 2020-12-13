@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Leonardo</h1>
-<img src="/octocat.png" align="right" width="40%" height="80%">
+<img src="/octocat.png" align="right" width="390px" height="780px">
 <h3 align="center">A passionate frontend developer from Belo Horizonte - Brazil</h3>
 
 - 🔭 I’m currently studying at [Trybe](https://betrybe.com/)
