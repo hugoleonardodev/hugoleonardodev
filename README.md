@@ -20,11 +20,9 @@
 
 - 📄 Know about my experiences [https://resume.io/r/l6Tsodsmm](https://resume.io/r/l6Tsodsmm)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hugoleonardodev" /></p>
-
 - ⚡ Fun facts **Dark theme is beautiful. I love VScode**
 
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hugoleonardodev" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
