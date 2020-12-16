@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **hugoleonardo.dev@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/l6Tsodsmm](https://resume.io/r/l6Tsodsmm)
+- 📄 Know about my experiences with my [Resume](https://resume.io/r/l6Tsodsmm)
 
-- ⚡ Fun facts **Dark theme is beautiful. I love VScode**
+- ⚡ Fun facts **Dark theme is beautiful. I love VScode.**
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hugoleonardodev" /></p>
 
