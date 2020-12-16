@@ -39,5 +39,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en" alt="hugoleonardodev" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hugoleonardodev" /></p>
-
