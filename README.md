@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Hugo Leonardo</h1>
+<h1 align="center">Hello World 🌎 ! I'm Hugo Leonardo 😈</h1>
 <img src="/octocat.png" align="right" width="50%" height="50%">
-<h3 align="center">A passionate frontend developer from Belo Horizonte - Brazil</h3>
+<h3 align="center">A passionate front🔚 developer from Belo Horizonte - Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently studying at [Trybe](https://betrybe.com/)
+- 🤖 I’m currently studying at [Trybe](https://betrybe.com/)
 
 - 🌱 I’m currently learning **React, Testing, Jest**
 
-- 👯 I’m looking to collaborate on [My Personal Web Portfolio](https://hugoleonardodev.github.io/)
+- 👾 I’m looking to collaborate on [My Personal Web Portfolio](https://hugoleonardodev.github.io/)
 
-- 🤝 I’m looking for help with [Projects](https://hugoleonardodev.github.io/)
+- 🦾 I’m looking for help with [Projects](https://hugoleonardodev.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://hugoleonardodev.github.io/](https://hugoleonardodev.github.io/)
+- 💻 All of my projects are available at [https://hugoleonardodev.github.io/](https://hugoleonardodev.github.io/)
 
 - 📝 I regulary write articles on [https://hugoleonardo-dev.medium.com/](https://hugoleonardo-dev.medium.com/)
 
-- 💬 Ask me about **JavaScriptES6, HTML5, CSS3**
+- ❓ Ask me about **JavaScriptES6, HTML5, CSS3**
 
-- 📫 How to reach me **hugoleonardo.dev@gmail.com**
+- 📬 How to reach me **hugoleonardo.dev@gmail.com**
 
-- 📄 Know about my experiences with my [Resume](https://resume.io/r/l6Tsodsmm)
+- 📒 Know about my experiences with my [Resume](https://resume.io/r/l6Tsodsmm)
 
-- ⚡ Fun facts **Dark theme is beautiful. I love VScode.**
+- 👽 Fun facts **I love VScode. Dark theme is beautiful! 🌇 🌆 🏙 🌃 🌌 **
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hugoleonardodev" /></p>
 
