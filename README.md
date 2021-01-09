@@ -45,7 +45,7 @@
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="80" src="https://c0.klipartz.com/pngpicture/790/54/sticker-png-node-js-javascript-express-js-web-server-firebase-icon-angle-text-logo-c-nodejs.png"></code>
+<img height="80" src="https://c0.klipartz.com/pngpicture/790/54/sticker-png-node-js-javascript-express-js-web-server-firebase-icon-angle-text-logo-c-nodejs.png">
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en" alt="hugoleonardodev" /></p>
