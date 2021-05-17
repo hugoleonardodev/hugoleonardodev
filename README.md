@@ -18,8 +18,6 @@
 
 - 📬 How to reach me **hugoleonardo.dev@gmail.com**
 
-- 📒 Know about my experiences with my [Resume](https://resume.io/r/l6Tsodsmm)
-
 - 👽 Fun facts **I love VScode. Dark theme is beautiful!  🌆  🌃 🛸 **
 
 🎯 🎄 🧑🏽‍💻 👩🏽‍💻 🧑🏽‍💻 👨🏽‍💻 💼 🧠
