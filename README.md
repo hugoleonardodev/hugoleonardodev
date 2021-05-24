@@ -2,19 +2,21 @@
 <img src="/octocat.png" align="right" width="50%" height="50%">
 <h3 align="center">A passionate 💜 frontend developer 🖥 from Belo Horizonte - Brazil 🇧🇷</h3>
 
-- 🤖 I’m currently studying at [Trybe](https://betrybe.com/)
+- 🤖 I’m currently working at [Softcom Tecnologia](https://softcomtecnologia.com.br/) and 
+- 
+- studying at [Trybe](https://betrybe.com/)
 
-- 🌱 I’m currently learning **React, Testing, Jest** 🚀
+- 🌱 I’m currently learning **TypeScript, Next.JS, and SSR** 🚀
 
-- 👾 I’m looking to collaborate on [My Personal Web Portfolio](https://hugoleonardodev.github.io/)
+<!-- - 👾 I’m looking to collaborate on [My Personal Web Portfolio](https://hugoleonardodev.github.io/) -->
 
-- 🦾 I’m looking for help with [Projects](https://hugoleonardodev.github.io/)
+<!-- - 🦾 I’m looking for help with [Projects](https://hugoleonardodev.github.io/) -->
 
-- 💻 All of my projects are available at [https://hugoleonardodev.github.io/](https://hugoleonardodev.github.io/)
+<!-- - 💻 All of my projects are available at [https://hugoleonardodev.github.io/](https://hugoleonardodev.github.io/) -->
 
 - 📝 I regulary write articles on [https://hugoleonardo-dev.medium.com/](https://hugoleonardo-dev.medium.com/)
 
-- ❓ Ask me about **JavaScriptES6, HTML5, CSS3**
+- ❓ Ask me about **JavaScript, HTML5, CSS3, React**
 
 - 📬 How to reach me **hugoleonardo.dev@gmail.com**
 
