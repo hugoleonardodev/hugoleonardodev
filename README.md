@@ -2,7 +2,7 @@
 <img src="/octocat.png" align="right" width="50%" height="50%">
 <h3 align="center">A passionate 💜 frontend developer 🖥 from Belo Horizonte - Brazil 🇧🇷</h3>
 
-- 🤖 I’m currently working at [Softcom Tecnologia](https://softcomtecnologia.com.br/) and 
+- 🤖 I’m currently working at ... 
 - 
 - studying at [Trybe](https://betrybe.com/)
 
