@@ -3,10 +3,8 @@
 <h3 align="center">A passionate 💜 frontend developer 🖥 from Belo Horizonte - Brazil 🇧🇷</h3>
 
 - 🤖 I’m currently working at ... 
-- 
-- studying at [Trybe](https://betrybe.com/)
 
-- 🌱 I’m currently learning **TypeScript, Next.JS, Performance Optimizations** 🚀
+- 🌱 I’m currently learning **Next.JS, Performance Optimizations, SEO** 🚀
 
 <!-- - 👾 I’m looking to collaborate on [My Personal Web Portfolio](https://hugoleonardodev.github.io/) -->
 
