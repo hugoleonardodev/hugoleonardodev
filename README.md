@@ -22,7 +22,7 @@
 
 🎯 🎄 🧑🏽‍💻 👩🏽‍💻 🧑🏽‍💻 👨🏽‍💻 💼 🧠
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hugoleonardodev" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hugoleonardodev" /></p> -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +43,7 @@
   
   
 </p>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hugoleonardodev" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hugoleonardodev&theme=material-palenight&show_icons=true&locale=en" alt="hugoleonardodev" /></p>
 
