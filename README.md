@@ -4,15 +4,7 @@
 
 - 🤖 I’m currently working at ... 
 
-- 🌱 I’m currently learning **Next.JS, Performance Optimizations, SEO** 🚀
-
-<!-- - 👾 I’m looking to collaborate on [My Personal Web Portfolio](https://hugoleonardodev.github.io/) -->
-
-<!-- - 🦾 I’m looking for help with [Projects](https://hugoleonardodev.github.io/) -->
-
 <!-- - 💻 All of my projects are available at [https://hugoleonardodev.github.io/](https://hugoleonardodev.github.io/) -->
-
-- 📝 I regulary write articles on [https://hugoleonardo-dev.medium.com/](https://hugoleonardo-dev.medium.com/)
 
 - ❓ Ask me about **JavaScript, TypeScript, HTML5, CSS3, React, Testing Library, Jest, Styled Components, SASS**
 
