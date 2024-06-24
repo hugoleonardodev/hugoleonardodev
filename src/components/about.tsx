@@ -51,25 +51,6 @@ function AboutSection({ aboutMeDictionary }: AboutMeProps): React.JSX.Element {
           </div>
           <p className="indent-8 ml-2 sm:ml-0 mb-8 sm:mb-0 text-gray-500 dark:text-gray-400">{aboutMeDictionary.p3}</p>
         </div>
-        {/* <p className="px-2 mt-4 text-gray-500 dark:text-gray-400">{aboutMeDictionary.p2}</p>
-        <p className="px-2 mt-4 text-gray-500 dark:text-gray-400">{aboutMeDictionary.p3}</p>
-        <p className="px-2 mt-4 text-gray-500 dark:text-gray-400">
-          Recentemente, passei os últimos meses trabalhando em um projeto pessoal full-stack. Sou patinador nas horas
-          vagas. E percebi que não havia nenhum website legal sobre patins. Todos que haviam eram horriveis ou então
-          eram apenas lojas para vender patins. Então decidi escrever um aplicativo para conectar patinadores ao redor
-          do mundo.{' '}
-          <a
-            href="https://www.rollershub.com"
-            target="_blank"
-            rel="noreferrer"
-            className="text-purple-600 hover:underline"
-          >
-            Rollers Hub
-          </a>{' '}
-          é um site que construi com ajuda de uma comunidade de patinadores. Vou implementando novas funcionalidades
-          quando tiver algum tempo livre. Estou procurando uma posição como desenvolvedor web full-stack. Me sinto bem
-          programando e quero seguir em frente com minha carreira como desenvolvedor.
-        </p> */}
       </div>
     </section>
   )
