@@ -9,8 +9,15 @@ interface ContactsProps {
     phone: string
     linkedin: string
     github: string
+    sourceCode: {
+      id: string
+      title: string
+      description: string
+      url: string
+    }
   }
 }
+
 function Contacts({ contactsDictionary }: ContactsProps): React.JSX.Element {
   return (
     <section id={contactsDictionary.id}>
@@ -22,11 +29,13 @@ function Contacts({ contactsDictionary }: ContactsProps): React.JSX.Element {
       </h2>
       <div className="flex flex-col items-center pb-10">
         <img className="w-64 h-64 mb-3 rounded-lg shadow-lg" src="/assets/hugo-leonardo.jpeg" alt="Hugo Leonardo" />
-        <h5 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">Hugo Leonardo</h5>
-        <span className="text-sm text-gray-500 dark:text-gray-400">Full Stack Developer</span>
+        <h3 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">Hugo Leonardo</h3>
+        <span className="text-sm text-gray-600 dark:text-gray-400">Full Stack Developer</span>
         <div className="flex mt-4 md:mt-6">
           <a
-            href="#"
+            href="https://github.com/hugoleonardodev"
+            target="_blank"
+            rel="noreferrer"
             className="inline-flex items-center px-4 py-2 text-sm font-medium text-center rounded-lg hover:bg-purple-200 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-[#1C1917] dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-[#E11D48]"
           >
             <svg
@@ -47,7 +56,9 @@ function Contacts({ contactsDictionary }: ContactsProps): React.JSX.Element {
             <span className="sr-only">Github</span>
           </a>
           <a
-            href="#"
+            href="https://www.linkedin.com/in/hugo-leonardo-1b94592b1/"
+            target="_blank"
+            rel="noreferrer"
             className="py-2 px-4 ms-2 text-sm font-medium text-gray-900 focus:outline-none rounded-lg hover:bg-purple-200 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-[#1C1917] dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-[#E11D48]"
           >
             <svg
@@ -69,7 +80,9 @@ function Contacts({ contactsDictionary }: ContactsProps): React.JSX.Element {
             <span className="sr-only">Linkedin</span>
           </a>
           <a
-            href="#"
+            href="whatsapp://send?phone=31999699361&text=Hello,%20I'm%20coming%20from%20your%20personal%20website."
+            target="_blank"
+            rel="noreferrer"
             className="py-2 px-4 ms-2 text-sm font-medium text-gray-900 focus:outline-none rounded-lg hover:bg-purple-200 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-[#1C1917] dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-[#E11D48]"
           >
             <svg
@@ -95,7 +108,7 @@ function Contacts({ contactsDictionary }: ContactsProps): React.JSX.Element {
             <span className="sr-only">Whatsapp</span>
           </a>
           <a
-            href="#"
+            href="mailto:hugoleonardo.dev@gmail.com"
             className="py-2 px-4 ms-2 text-sm font-medium text-gray-900 focus:outline-none rounded-lg hover:bg-purple-200 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-[#1C1917] dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-[#E11D48]"
           >
             <svg
@@ -118,6 +131,14 @@ function Contacts({ contactsDictionary }: ContactsProps): React.JSX.Element {
             <span className="sr-only">Email</span>
           </a>
         </div>
+        <a
+          href={contactsDictionary.sourceCode.url}
+          target="_blank"
+          rel="noreferrer"
+          className="mt-8 text-sm text-center font-medium text-gray-600 hover:underline hover:text-purple-700 dark:hover:text-[#E11D48]  dark:text-gray-600"
+        >
+          {contactsDictionary.sourceCode.description}
+        </a>
       </div>
     </section>
   )

@@ -20,8 +20,12 @@ const nextConfig = {
         destination: '/assets/:path*',
       },
       {
-        source: '/:path*.xml',
-        destination: '/:path*.xml',
+        source: '/sitemap.xml',
+        destination: '/sitemap.xml',
+      },
+      {
+        source: '/:path*/favicon.ico',
+        destination: '/favicon.ico',
       },
       {
         source: '/robots.txt',

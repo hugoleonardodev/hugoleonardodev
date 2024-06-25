@@ -6,6 +6,8 @@ interface TechnologiesListProps {
     id: string
     title: string
     description: string
+    noTechnologies: string
+    refresh: string
     list: string[]
   }
 }
@@ -40,7 +42,7 @@ function TechnologiesList({ technologiesDictionary }: TechnologiesListProps): Re
             <span
               key={tech}
               id="badge-dismiss-indigo"
-              className="inline-flex items-center px-2 py-1 m-2 me-2 text-sm font-medium text-indigo-800 bg-indigo-100 rounded dark:bg-[#E11D48] dark:text-pink-300"
+              className="inline-flex items-center px-2 py-1 m-2 me-2 text-sm font-medium text-indigo-800 bg-indigo-100 rounded dark:bg-[#E11D48] dark:text-gray-300"
             >
               {tech}
               <button
@@ -72,12 +74,12 @@ function TechnologiesList({ technologiesDictionary }: TechnologiesListProps): Re
           ))
         ) : (
           <div>
-            <p className="text-gray-500 dark:text-gray-400">No technologies selected</p>
+            <p className="text-gray-600 dark:text-gray-400">{technologiesDictionary.noTechnologies}</p>
             <button
               onClick={handleResetList}
               className="text-sm font-medium text-blue-600 hover:underline dark:text-blue-500"
             >
-              Click here to reset
+              {technologiesDictionary.refresh}
             </button>
           </div>
         )}

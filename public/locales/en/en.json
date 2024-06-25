@@ -98,6 +98,8 @@
     "id": "technologies-and-tools",
     "title": "Technologies and Tools",
     "description": "Some of the tools I have worked with",
+    "noTechnologies": "You removed the technologies from the list",
+    "refresh": "Click here to refresh the list",
     "list": [
       "JavaScript",
       "TypeScript",
@@ -144,6 +146,12 @@
     "email": "hugoleonardo.dev@gmail.com",
     "phone": "+5531999699361",
     "linkedin": "https://www.linkedin.com/in/hugo-leonardo-1b94592b1/",
-    "github": "https://github.com/hugoleonardodev"
+    "github": "https://github.com/hugoleonardodev",
+    "sourceCode": {
+      "id": "codigo-fuente",
+      "title": "Código Fuente",
+      "description": "Ver el código fuente en GitHub",
+      "url": "https://github.com/hugoleonardodev/hugoleonardodev"
+    }
   }
 }

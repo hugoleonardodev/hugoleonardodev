@@ -18,25 +18,26 @@ interface WorkingExperienceProps {
     }>
   }
 }
+
 export function WorkingExperience({ workingExperienceDictionary }: WorkingExperienceProps): React.JSX.Element {
   const { width } = useWindowSize()
   return (
-    <section className="pl-6 pr-2 sm:pl-0 pr-0">
+    <section className="pl-6 pr-2 sm:pl-0 pr-0" id={workingExperienceDictionary.id}>
       <h1 className="px-2 text-3xl font-bold tracking-tight text-gray-900 dark:text-white">
         {workingExperienceDictionary.title}
       </h1>
       <h2 className="px-2 mb-8 text-xl font-bold tracking-tight text-gray-600 dark:text-gray-300">
         {workingExperienceDictionary.description}
       </h2>
-      <Timeline horizontal={width > 1023} id={workingExperienceDictionary.id} className="">
+      <Timeline horizontal={width > 1023}>
         {workingExperienceDictionary.experiences.map(experience => (
           <Timeline.Item key={experience.company}>
             <Timeline.Point icon={HiCalendar} />
             <Timeline.Content>
-              <Timeline.Time>{experience.duration}</Timeline.Time>
+              <Timeline.Time className="text-gray-600">{experience.duration}</Timeline.Time>
               <Timeline.Title>{experience.company}</Timeline.Title>
-              <Timeline.Body>{experience.role}</Timeline.Body>
-              <Timeline.Body>{experience.location}</Timeline.Body>
+              <Timeline.Body className="text-gray-600">{experience.role}</Timeline.Body>
+              <Timeline.Body className="text-gray-600">{experience.location}</Timeline.Body>
               <ul>
                 {experience.tasks.map(task => (
                   <li className="list-[disclosure-closed]" key={task}>

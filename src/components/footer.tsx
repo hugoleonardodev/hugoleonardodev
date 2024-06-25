@@ -11,7 +11,7 @@ interface MyFooterProps {
 
 export function MyFooter({ navigationDictionary }: MyFooterProps): JSX.Element {
   return (
-    <Footer container className="dark:bg-black">
+    <Footer container className="bg-gray-300 dark:bg-black">
       <div className="w-full text-center">
         <div className="w-full justify-between sm:flex sm:items-center sm:justify-between">
           <a href="#navbar">
@@ -23,7 +23,7 @@ export function MyFooter({ navigationDictionary }: MyFooterProps): JSX.Element {
               <Footer.Link
                 href={link.href}
                 key={link.href}
-                className="sm:my-0 hover:text-purple-700 dark:hover:text-[#E11D48]"
+                className="text-gray-600 dark:text-gray-400 sm:my-0 hover:text-purple-700 dark:hover:text-[#E11D48]"
               >
                 {link.title}
               </Footer.Link>
@@ -31,7 +31,12 @@ export function MyFooter({ navigationDictionary }: MyFooterProps): JSX.Element {
           </Footer.LinkGroup>
         </div>
         <Footer.Divider />
-        <Footer.Copyright href="#navbar" by="hugoleonardodev" year={new Date().getFullYear()} />
+        <Footer.Copyright
+          href="#navbar"
+          by="hugoleonardodev"
+          year={new Date().getFullYear()}
+          className="text-gray-600 dark:text-gray-400"
+        />
       </div>
     </Footer>
   )
