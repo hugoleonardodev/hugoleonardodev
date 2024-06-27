@@ -14,14 +14,14 @@ interface Props {
 
 export async function generateMetadata({ params, searchParams }: Props, parent: ResolvingMetadata): Promise<Metadata> {
   return {
-    metadataBase: new URL('https://www.rollershub.com'),
-    generator: 'Rollers Hub',
-    applicationName: 'Rollers Hub',
+    metadataBase: new URL(`https://hugoleonardodev.vercel.app/${params.lang}`),
+    generator: 'hugoleonardodev',
+    applicationName: 'hugoleonardodev',
     referrer: 'origin-when-cross-origin',
-    keywords: ['Patins', 'Onde Patinar', 'Mapa da Patinação', 'Grupos', 'Eventos', 'Notícias', 'Rollers Hub'],
-    authors: [{ name: 'Rollers Hub', url: 'https://www.rollershub.com' }],
-    creator: 'Rollers Hub',
-    publisher: 'Rollers Hub',
+    keywords: ['web', 'frontend', 'fullstack', 'developer', 'mobile', 'app', 'javascript', 'next'],
+    authors: [{ name: 'Hugo Leonardo', url: 'https://hugoleonardodev.vercel.app/' }],
+    creator: 'Hugo Leonardo',
+    publisher: 'Hugo Leonardo',
     formatDetection: {
       email: false,
       address: false,
@@ -34,8 +34,8 @@ export async function generateMetadata({ params, searchParams }: Props, parent: 
     //     'de-DE': '/de-DE',
     //   },
     // },
-    title: 'Rollers Hub',
-    description: 'Rollers Hub - Conectando patinadores do mundo todo',
+    title: 'hugoleonardodev',
+    description: 'hugoleonardodev - Fullstack developer',
     // robots: {
     //   index: false,
     //   follow: true,
@@ -50,10 +50,10 @@ export async function generateMetadata({ params, searchParams }: Props, parent: 
     //   },
     // },
     openGraph: {
-      title: 'Rollers Hub',
-      description: 'Rollers Hub - Conectando patinadores do mundo todo',
-      url: 'https://www.rollershub.com/' + params.lang,
-      siteName: 'Rollers Hub',
+      title: 'hugoleonardodev',
+      description: 'hugoleonardodev - Fullstack developer',
+      url: 'https://hugoleonardodev.vercel.app/' + params.lang,
+      siteName: 'hugoleonardodev',
       images: [
         // {
         //   url: imageUrl, // Must be an absolute URL
@@ -63,11 +63,11 @@ export async function generateMetadata({ params, searchParams }: Props, parent: 
         //   type: 'image/jpeg',
         // },
         {
-          url: '/assets/en-home-thumb-resized.png', // Must be an absolute URL
+          url: '/assets/hugo-leonardo.jpeg', // Must be an absolute URL
           width: 1200,
           height: 600,
-          alt: 'Rollers Hub - Logo',
-          type: 'image/png',
+          alt: 'hugoleonardodev',
+          type: 'image/jpeg',
         },
         // {
         //   url: imageUrl, // Must be an absolute URL
@@ -85,7 +85,7 @@ export async function generateMetadata({ params, searchParams }: Props, parent: 
         // },
       ],
       locale: params.lang,
-      type: 'article',
+      type: 'website',
     },
   }
 }

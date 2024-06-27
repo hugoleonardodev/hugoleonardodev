@@ -1,12 +1,12 @@
 import { Flowbite, ThemeModeScript } from 'flowbite-react'
 import React from 'react'
+import Head from 'next/head'
 import { Inter, Roboto_Mono } from 'next/font/google'
 import { type Metadata } from 'next'
 import { type LocalesAvailable, getDictionary } from '@/functions/getDictionary'
 import { MyHeader } from '@/components/header'
 
 import '../../app/[lang]/globals.css'
-import Head from 'next/head'
 import { MyFooter } from '@/components/footer'
 
 const inter = Inter({
@@ -156,6 +156,6 @@ export default async function RootLayout({
 }
 
 export const metadata: Metadata = {
-  title: 'Rollers Hub',
-  description: 'Connecting rollers all around the world',
+  title: 'hugoleonardodev',
+  description: 'Personal website of hugoleonardodev. Full Stack Developer from Belo Horizonte, Brazil',
 }

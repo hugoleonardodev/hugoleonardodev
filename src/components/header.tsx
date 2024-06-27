@@ -1,8 +1,9 @@
 'use client'
-import NextImage from 'next/image'
 import { DarkThemeToggle, Navbar, NavbarBrand, NavbarCollapse, NavbarLink, NavbarToggle } from 'flowbite-react'
-import React from 'react'
+import NextLink from 'next/link'
+import NextImage from 'next/image'
 import { usePathname } from 'next/navigation'
+import React from 'react'
 
 import Portuguese from '@/assets/world-countries/br.png'
 import English from '@/assets/world-countries/gb.png'
@@ -28,6 +29,7 @@ export function MyHeader({ navigationDictionary }: MyHeaderProps): React.JSX.Ele
       toggleButton.appendChild(avatar)
     }
   }, [])
+
   return (
     <Navbar fluid rounded id="navbar" className="bg-gray-300 dark:bg-black">
       <NavbarBrand href="/">
@@ -37,21 +39,21 @@ export function MyHeader({ navigationDictionary }: MyHeaderProps): React.JSX.Ele
       <DarkThemeToggle />
 
       {!path.includes('en-US') ? (
-        <a href="https://www.hugoleonardodev.vercel.app/en-US" target="_blank" rel="noreferrer">
+        <NextLink href="https://www.hugoleonardodev.vercel.app/en-US">
           <NextImage src={English} alt="English" width={32} height={16} />
-        </a>
+        </NextLink>
       ) : null}
 
       {!path.includes('es-ES') ? (
-        <a href="https://www.hugoleonardodev.vercel.app/es-ES" target="_blank" rel="noreferrer">
+        <NextLink href="https://www.hugoleonardodev.vercel.app/es-ES">
           <NextImage src={Spanish} alt="Español" width={32} height={16} />
-        </a>
+        </NextLink>
       ) : null}
 
       {!path.includes('pt-BR') ? (
-        <a href="https://www.hugoleonardodev.vercel.app/pt-BR" target="_blank" rel="noreferrer">
+        <NextLink href="https://www.hugoleonardodev.vercel.app/pt-BR">
           <NextImage src={Portuguese} alt="Portugês" width={32} height={16} />
-        </a>
+        </NextLink>
       ) : null}
 
       <NavbarToggle id="header-navbar-toggle" />
