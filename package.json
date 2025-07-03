@@ -9,7 +9,6 @@
     "lint": "next lint",
     "lint:fix": "next lint --fix",
     "type-check": "tsc --noEmit",
-    "prepare": "husky install",
     "postinstall": "flowbite-react patch"
   },
   "dependencies": {
